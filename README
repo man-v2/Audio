@@ -1,1 +1,3 @@
 This file was created by IntelliJ IDEA 12.0.1 for binding GitHub repository
+采用windows服务器时，需要将msc对应的版本放置在jdk的bin/lib目录下
+采用linux服务器时，需要将libmsc对应的版本放置于根目录下的lib目录下  /lib/
